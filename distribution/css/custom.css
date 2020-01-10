@@ -3,10 +3,25 @@
 
 /* 
 .portImg {
-    max-width: 300px;
-    max-height: 200px;
+    width: 350px;
+    height: 466.66px;
 } */
 
 .portImgRound {
     border-radius: 50%;
+}
+
+.KimsFont {
+    font-family: 'Shadows Into Light', cursive;
+    float: left;
+    margin-left: -50%;
+    padding-right: 600px;
+}
+
+.largeText {
+    font-size: 30px;
+}
+
+.heading {
+    font-size: 46px;
 }
